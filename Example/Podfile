@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'XukCategoryKit_Example' do
+  pod 'XukCategoryKit', :path => '../'
+
+  target 'XukCategoryKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
