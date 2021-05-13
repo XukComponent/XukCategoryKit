@@ -1,0 +1,16 @@
+PODS:
+  - XukCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - XukCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  XukCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XukCategoryKit: 7db0c7b4f9c6b357f466ddb5f8728cbdede9cbcf
+
+PODFILE CHECKSUM: 7173a604835f0ba68f3a3cea9bf3cacc3454955f
+
+COCOAPODS: 1.10.1

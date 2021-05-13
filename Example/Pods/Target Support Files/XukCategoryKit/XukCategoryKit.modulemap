@@ -1,0 +1,6 @@
+framework module XukCategoryKit {
+  umbrella header "XukCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

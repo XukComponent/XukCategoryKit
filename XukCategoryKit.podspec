@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/devilee/XukCategoryKit'
+  s.homepage         = 'https://github.com/XukComponent/XukCategoryKit'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'devilee' => 'lee_520713@163.com' }
-  s.source           = { :git => 'https://github.com/devilee/XukCategoryKit.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/XukComponent/XukCategoryKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
